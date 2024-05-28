@@ -1,0 +1,8 @@
+dist
+node_modules
+reports
+**/.next
+/.idea/*
+.vscode
+
+
