@@ -1,1 +1,1 @@
-export * from '../settings-zone/header/Header.jsx'
+export * from './Poster'

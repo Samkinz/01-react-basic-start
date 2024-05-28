@@ -1,12 +1,11 @@
-import Header from "../src/components/settings-zone/header"
+import {Poster} from "./components/poster";
+import {SettingsZone} from "./components/settings-zone";
 
 export default function App() {
   return (
-    <div>
-    <Header />
-      <main>
-        <h1>Hello React!</h1>
-      </main>
-    </div>
+    <>
+      <Poster />
+      <SettingsZone/>
+    </>
   )
 }
